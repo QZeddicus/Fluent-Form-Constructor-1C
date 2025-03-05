@@ -1,3 +1,7 @@
+Публикация на [![Инфостарт](https://infostart.ru/bitrix/templates/sandbox_empty/assets/tpl/abo/img/logo.svg)](https://infostart.ru/bitrix/templates/sandbox_empty/assets/tpl/abo/img/logo.svg)
+
+https://infostart.ru/1c/tools/2303678/
+
 # Fluent-Form-Constructor-1C
 Текучий конструктор форм 1С
 
